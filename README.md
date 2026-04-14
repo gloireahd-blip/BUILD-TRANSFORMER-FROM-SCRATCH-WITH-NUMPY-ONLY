@@ -6,6 +6,7 @@
 
 ## 🚀 Project Overview
 Have you ever wondered what actually happens inside the "brain" of **ChatGPT**, **Gemini**, or **DeepSeek**? 
+Curieux de découvrir la mécanique interne qui anime des modèles comme ChatGPT, Gemini ou DeepSeek ?
 
 This project is a deep-dive implementation of the **Transformer architecture**, built entirely **from scratch using only NumPy**. No high-level libraries like PyTorch or TensorFlow—just pure Linear Algebra, Calculus, and Python.
 
